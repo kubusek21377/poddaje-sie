@@ -1,0 +1,17 @@
+/* styles.css */
+
+/* Styl dla przycisku */
+.custom-button {
+    background-color: #3498db; /* Kolor tła */
+    color: #fff; /* Kolor tekstu */
+    padding: 10px 20px; /* Wewnętrzny odstęp */
+    font-size: 16px; /* Rozmiar czcionki */
+    border: none; /* Brak obramowania */
+    border-radius: 5px; /* Zaokrąglenie rogów */
+    cursor: pointer; /* Kursor wskazujący na możliwość kliknięcia */
+}
+
+/* Styl dla przycisku po najechaniu myszką */
+.custom-button:hover {
+    background-color: #2980b9; /* Zmiana koloru tła po najechaniu */
+}
